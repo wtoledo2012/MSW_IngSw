@@ -52,18 +52,3 @@ public class CalculadoraTest {
         System.out.println("Prueba tearDownClass()");
     }
 }
-// Actual
-//C:\Program Files\Java\jdk1.8.0_202
-
-// Nuevo para hacer pruebas en TDD
-// Cambiar:
-// 1) JDK en var de entorno
-// JAVA_HOME        =>      C:\Java\jdk-18.0.2\
-//
-
-
-
-
-// system variables
-// MAVEN_OPTS
-// -Xmx512m -XX:MaxPermSize=256m
